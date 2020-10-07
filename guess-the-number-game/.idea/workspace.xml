@@ -20,12 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a5c3d8c-1617-4435-8c2a-bc59efd276d7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/guess-the-number-game.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +64,11 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/core/src/main/resources" />
     </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install" />
+    </option>
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -148,6 +148,32 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="524" y="104" width="374" height="585" key="#com.intellij.ide.util.MemberChooser" timestamp="1602104006816">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="524" y="104" width="374" height="585" key="#com.intellij.ide.util.MemberChooser/67.27.1299.741@67.27.1299.741" timestamp="1602104006816" />
+    <state width="1253" height="133" key="GridCell.Tab.0.bottom" timestamp="1602104364810">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="133" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1602104364810" />
+    <state width="1253" height="133" key="GridCell.Tab.0.center" timestamp="1602104364809">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="133" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1602104364809" />
+    <state width="1253" height="133" key="GridCell.Tab.0.left" timestamp="1602104364809">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="133" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1602104364809" />
+    <state width="1253" height="133" key="GridCell.Tab.0.right" timestamp="1602104364810">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="133" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1602104364810" />
+    <state x="380" y="175" width="672" height="677" key="run.anything.popup" timestamp="1602103128695">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="380" y="175" width="672" height="677" key="run.anything.popup/67.27.1299.741@67.27.1299.741" timestamp="1602103128695" />
   </component>
   <component name="masterDetails">
     <states>
